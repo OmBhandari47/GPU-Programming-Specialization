@@ -1,0 +1,5 @@
+# Google C++ Style Guide formatting configuration.
+# Format the sources with: clang-format -i src/*.cpp src/*.h src/*.cuh tools/*.cpp
+BasedOnStyle: Google
+Standard: c++17
+ColumnLimit: 80

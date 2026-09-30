@@ -1,0 +1,14 @@
+# Build outputs
+bin/
+*.o
+
+# Generated smoke-test data and processed outputs. The real datasets
+# (data/small, data/large) are meant to be committed after a lab run -
+# see README.md ("What to commit").
+output/
+data/smoke/
+
+# OS / editor noise
+.DS_Store
+*.swp
+__pycache__/
