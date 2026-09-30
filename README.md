@@ -1,6 +1,6 @@
 # GPU Programming Specialization
 
-My coursework for the NVIDIA *CUDA Programming* specialization on Coursera,
+My coursework for the GPU Programming specialization on Coursera,
 organized by course. Each course folder holds its notebooks, labs, and the
 independent course project.
 
